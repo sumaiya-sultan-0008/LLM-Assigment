@@ -1,0 +1,8 @@
+# Versions used to produce the executed notebook (Python 3.13)
+torch>=2.4          # tested with 2.14.0 (CPU)
+transformers>=4.44  # tested with 5.3.0
+scikit-learn>=1.4   # tested with 1.8.0
+numpy>=1.26         # tested with 2.5.3
+pandas>=2.0         # tested with 2.2.3
+matplotlib>=3.8     # tested with 3.10.8
+jupyter
